@@ -25,8 +25,6 @@ module.exports = {
 function getAboutSidebar () {
   return [
     '',
-    'roadmap',
-    'contributing',
     'license',
     'contact'
   ] 
@@ -35,14 +33,8 @@ function getAboutSidebar () {
 function getGuidesSidebar () {
   return [
     '',
-    { 
-      title: 'The Basics',
-      children: [ 'basics/step-by-step' ]
-    },
-    {
-      title: 'Development',
-      children: ['development/setup', 'development/develop', 'development/configure', 'development/deploy', 'development/publish' ] 
-    }
+    'faq',
+    'step-by-step'
   ]
 }
 
