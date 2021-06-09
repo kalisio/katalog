@@ -43,15 +43,15 @@ function getRessourcesSidebar () {
     '',
     { 
       title: 'Issues',
-      children: ['ressources/issues/population', 'ressources/issues/communications' ]
+      children: ['issues/population', 'issues/communications' ]
     },
     {
       title: 'Natural risks',
-      children: ['ressources/natural_risks/clay', 'ressources/natural_risks/earthquakes', 'ressources/natural_risks/floods', 'ressources/natural_risks/forest_fires', 'ressources/natural_risks/ground_movements', 'ressources/natural_risks/radon', 'ressources/natural_risks/underground_cavities', 'ressources/natural_risks/volcanism' ]      
+      children: ['natural_risks/clay', 'natural_risks/earthquakes', 'natural_risks/floods', 'natural_risks/forest_fires', 'natural_risks/ground_movements', 'natural_risks/radon', 'natural_risks/underground_cavities', 'natural_risks/volcanism' ]      
     },
     { 
       title: 'technological_risks',
-      children: ['ressources/technological_risks/classified_installations', 'ressources/technological_risks/pipe_networks', 'ressources/technological_risks/pollutant_emissions', 'ressources/technological_risks/soils_industrial_sites' ]
+      children: ['technological_risks/classified_installations', 'technological_risks/pipe_networks', 'technological_risks/pollutant_emissions', 'technological_risks/soils_industrial_sites' ]
     }
   ]
 }
