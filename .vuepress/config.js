@@ -47,7 +47,7 @@ function getRessourcesSidebar () {
     },
     {
       title: 'Natural risks',
-      children: ['natural_risks/clay', 'natural_risks/earthquakes', 'natural_risks/floods', 'natural_risks/forest_fires', 'natural_risks/ground_movements', 'natural_risks/radon', 'natural_risks/underground_cavities', 'natural_risks/volcanism' ]      
+      children: ['','natural_risks/clay', 'natural_risks/earthquakes', 'natural_risks/floods', 'natural_risks/forest_fires', 'natural_risks/ground_movements', 'natural_risks/radon', 'natural_risks/underground_cavities', 'natural_risks/volcanism' ]      
     },
     { 
       title: 'technological_risks',
