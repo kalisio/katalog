@@ -27,19 +27,19 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "ff587bf8b7286343e52315c59107f02c"
+    "revision": "797204cd85c659847345130523b4de41"
   },
   {
     "url": "about/contact.html",
-    "revision": "9daf950297e5d981ec584a7b25e4dccc"
+    "revision": "f4163f34138b79fcc9cf569ad8e9daae"
   },
   {
     "url": "about/index.html",
-    "revision": "83521245a0f8ae373799dcae39bf3f70"
+    "revision": "4ff46e789a176f46094b11f92ede4f19"
   },
   {
     "url": "about/license.html",
-    "revision": "5451f50545cddab0f6fc67e86ee3ff08"
+    "revision": "15d21e5dfc5c2019d748d4a93022d3e8"
   },
   {
     "url": "assets/css/0.styles.2184d956.css",
@@ -78,8 +78,8 @@ self.__precacheManifest = [
     "revision": "27a365e33b82a908bc9fe4253d2ef1a3"
   },
   {
-    "url": "assets/js/17.73ef6f65.js",
-    "revision": "0c5383fb641dc8a11a8b02dd5f9be420"
+    "url": "assets/js/17.50b1de29.js",
+    "revision": "d0212c8a2eafb2fc4599a7a77f51ab0f"
   },
   {
     "url": "assets/js/18.bb08bade.js",
@@ -98,24 +98,24 @@ self.__precacheManifest = [
     "revision": "cbebbc34fda7530046b1213675038a10"
   },
   {
-    "url": "assets/js/21.85596cda.js",
-    "revision": "34d199e70b824afb3a5f6a322b1ccfda"
+    "url": "assets/js/21.011a8222.js",
+    "revision": "f1e2156c6f556110d89c3752c07262de"
   },
   {
-    "url": "assets/js/22.a29614bc.js",
-    "revision": "0f3b30c1569b9a78006f97d2a4c9b406"
+    "url": "assets/js/22.80d55334.js",
+    "revision": "79940271877b53ac1dd721e61bea82d9"
   },
   {
-    "url": "assets/js/23.0221d880.js",
-    "revision": "4efb2b5896d374e4b2ceabb7b4b9e7f4"
+    "url": "assets/js/23.8aa26d94.js",
+    "revision": "d3683aeabd3dc03680dfbcc92d822853"
   },
   {
-    "url": "assets/js/24.279f823d.js",
-    "revision": "d5d4d88b701faa132dbe1afdbed3b731"
+    "url": "assets/js/24.49eb545f.js",
+    "revision": "6ee3c30c923960a04e000ba53e81d357"
   },
   {
-    "url": "assets/js/25.a6136196.js",
-    "revision": "4b00ab36baa5f6a5c1a5d72fcf5ff863"
+    "url": "assets/js/25.33177662.js",
+    "revision": "f3536172497d7954d1353b0935d12a7e"
   },
   {
     "url": "assets/js/26.89d173c6.js",
@@ -138,48 +138,52 @@ self.__precacheManifest = [
     "revision": "1cff1698c87725976ab17019d0fdb414"
   },
   {
-    "url": "assets/js/30.770d723e.js",
-    "revision": "64a1d7e86f9cb2bddaabfcd29a401512"
+    "url": "assets/js/30.a00f48ff.js",
+    "revision": "5f116442a17c798a12b73347045d97fc"
   },
   {
     "url": "assets/js/31.5b289fa3.js",
     "revision": "eea5209b1189e10a0cf31e13293c4459"
   },
   {
-    "url": "assets/js/32.7525a536.js",
-    "revision": "9657f236d1d8792884ad1fb7d94629fb"
+    "url": "assets/js/32.d00e544c.js",
+    "revision": "2d15e3befd2adb7f0017b403e0f4e434"
   },
   {
-    "url": "assets/js/33.1927e6e2.js",
-    "revision": "604373d1db34769b59ada5920ee607d8"
+    "url": "assets/js/33.89d56528.js",
+    "revision": "e1d77d5d6908fab03c3dde8183dccd08"
   },
   {
-    "url": "assets/js/34.7d097f69.js",
-    "revision": "914e895dde36f0a5ff530b40d421acd7"
+    "url": "assets/js/34.33f0f3e0.js",
+    "revision": "8a2eee97ac0658699be97f55c9a99528"
   },
   {
-    "url": "assets/js/35.f7bab0b7.js",
-    "revision": "85e6f2edb61d5b089506011178a168a2"
+    "url": "assets/js/35.baa16485.js",
+    "revision": "af31a5ec72b56cd1e67ba32b171eed93"
   },
   {
-    "url": "assets/js/36.3f32aaa8.js",
-    "revision": "cfa1d2562ba6d17d749a0d614e4ef557"
+    "url": "assets/js/36.af67aa57.js",
+    "revision": "921c804e062d9d523d50be285436c2b2"
   },
   {
-    "url": "assets/js/37.06da024d.js",
-    "revision": "45111f90373c353a9d4bed8dd08c2e80"
+    "url": "assets/js/37.994c4680.js",
+    "revision": "34156e9de669de970ece9914d7c21a5d"
   },
   {
-    "url": "assets/js/38.df2d312d.js",
-    "revision": "9f2fce5356f40eaab0f3a92f4930b322"
+    "url": "assets/js/38.79aa26c9.js",
+    "revision": "c5ee945df3ce819b5a3f9296d8620def"
   },
   {
-    "url": "assets/js/4.7e3815cb.js",
-    "revision": "13324a3c7c3b53292321f858703b2fc3"
+    "url": "assets/js/39.307770bd.js",
+    "revision": "469e08b56d2708bbf196014e28c5f1ec"
   },
   {
-    "url": "assets/js/5.b08738c0.js",
-    "revision": "a33acba62fb4ecb03d0a85a765842fd2"
+    "url": "assets/js/4.bff79c2a.js",
+    "revision": "b26724e67422d68a0a5aa2e062ca0ad9"
+  },
+  {
+    "url": "assets/js/5.2acc77a8.js",
+    "revision": "3dfbaf8acbf2da0e9e2177e6dc21f1cb"
   },
   {
     "url": "assets/js/6.4f2f841e.js",
@@ -194,100 +198,104 @@ self.__precacheManifest = [
     "revision": "c65c364c1566ad464272c91adc494410"
   },
   {
-    "url": "assets/js/9.ddef9d5e.js",
-    "revision": "4afd96b0e55f8f87bbe48bd0b51edd58"
+    "url": "assets/js/9.66b86c3d.js",
+    "revision": "532f0da0629b9e43db260c9bfb0c0796"
   },
   {
-    "url": "assets/js/app.caa1aff8.js",
-    "revision": "c1e4c63e370a307d42032acb271364e3"
+    "url": "assets/js/app.1b318efa.js",
+    "revision": "b57933999d1b670c4328d9319ad2f801"
   },
   {
     "url": "guides/faq.html",
-    "revision": "63a6e8eef8c632249ef64686304c8b30"
+    "revision": "1741334ef9411d4fa435862bcd7526de"
   },
   {
     "url": "guides/index.html",
-    "revision": "9488b6a09b5dad6718d0a1957f2c0496"
+    "revision": "962da612a8d89f6dc6391c1cc5c2b106"
   },
   {
     "url": "guides/step-by-step.html",
-    "revision": "b1e8a4fdeb365542f9a543254a76e3da"
+    "revision": "314051953cf8dd84f55a8e1098e4df59"
   },
   {
     "url": "index.html",
-    "revision": "63bd909f82503340deddce5bfe72a3d5"
+    "revision": "3957ffed6620588599bac7de5f74c44b"
   },
   {
     "url": "ressources/index.html",
-    "revision": "905a4364862a58015bebdaf6a42af22c"
+    "revision": "a9210fb97610d28925c0cae551fada78"
   },
   {
     "url": "ressources/issues/communications.html",
-    "revision": "99e31121adbde10e8b30cc9e2d072d91"
+    "revision": "58de70e965002c71b0c54b62bc5cad40"
   },
   {
     "url": "ressources/issues/index.html",
-    "revision": "b3c70fc6877900447421539ee2aa0551"
+    "revision": "4cc95c4adeea44649be91a1c01f2f49b"
   },
   {
     "url": "ressources/issues/population.html",
-    "revision": "add9a506451ebd69827470230dcb52ac"
+    "revision": "71f421bfe9120c1115044f49a3edd337"
   },
   {
     "url": "ressources/natural_risks/clay.html",
-    "revision": "2fcdf225e0e4ae89837723eb3733884d"
+    "revision": "f3fd4b6adb73f86324406d4662316a08"
   },
   {
     "url": "ressources/natural_risks/earthquakes.html",
-    "revision": "a97fb5aaef5338b2606b5fa1ce6de281"
+    "revision": "b734f22bb2bccfcaa00bc9f4316e8a20"
   },
   {
     "url": "ressources/natural_risks/floods.html",
-    "revision": "5f43f8d73243a329a8f6c23d052d8794"
+    "revision": "75da786467d09d83a800f80132568d26"
   },
   {
     "url": "ressources/natural_risks/forest_fires.html",
-    "revision": "4dea44161ea5cab23051e20bcbac0a48"
+    "revision": "7eebe5e3e63ed3e1c12ccbf2b7c3a6b5"
+  },
+  {
+    "url": "ressources/natural_risks/global_information.html",
+    "revision": "b4b30f734c69f7af8a54314f2fd20655"
   },
   {
     "url": "ressources/natural_risks/ground_movements.html",
-    "revision": "f878752bfe433d432ea42261b9791841"
-  },
-  {
-    "url": "ressources/natural_risks/index.html",
-    "revision": "50fea70178491d682fcde001fd945dcd"
+    "revision": "3215920908a9aea3c4ba3eaf044f00c2"
   },
   {
     "url": "ressources/natural_risks/radon.html",
-    "revision": "2b0ff932d395558a84d6a91381b0cecc"
+    "revision": "8e9487c3b39d74bd140115a76cd07972"
   },
   {
     "url": "ressources/natural_risks/underground_cavities.html",
-    "revision": "cdbc4270b1aed7dac4c5506956494c85"
+    "revision": "342dab30a336a1fe1c08fa221d9d6fd0"
   },
   {
     "url": "ressources/natural_risks/volcanism.html",
-    "revision": "c7ed6277e15f03d1ceee3d1a03600cd5"
+    "revision": "a0d9a4d19e3bfb1cdc94d0ccd56e5292"
+  },
+  {
+    "url": "ressources/natural_risks/weather_events.html",
+    "revision": "50610c20a41ac49fc9f9d6825574ced5"
   },
   {
     "url": "ressources/technological_risks/classified_installations.html",
-    "revision": "d6b76a2e24c4dd927501c78b0e7e9b37"
+    "revision": "779243a582c8bb2f2046997eed042f52"
   },
   {
-    "url": "ressources/technological_risks/index.html",
-    "revision": "7d26e58ea34f177d1066119a6520844d"
+    "url": "ressources/technological_risks/global_information.html",
+    "revision": "7b8777766b4ab1487b3bfb952d4d0771"
   },
   {
     "url": "ressources/technological_risks/pipe_networks.html",
-    "revision": "5f85506ee64682c6abb350cd7ca09519"
+    "revision": "b590c95f4ec3c34dd7421841af41d6d1"
   },
   {
     "url": "ressources/technological_risks/pollutant_emissions.html",
-    "revision": "caceca2903a29ab5d36ce8028bf0fff4"
+    "revision": "1073cd4f18bd274fcdc67fc470326460"
   },
   {
     "url": "ressources/technological_risks/soils_industrial_sites.html",
-    "revision": "46dd500c312ebb28f557a0661977f38d"
+    "revision": "8c024d9f47b256ad64b94fabf0a48393"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
