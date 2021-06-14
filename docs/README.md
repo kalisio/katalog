@@ -2,7 +2,7 @@
 home: true
 heroImage: https://s3.eu-central-1.amazonaws.com/kalisioscope/kano/kano-icon-256x256.png
 actionText: Show me more →
-actionLink: /about/introduction
+actionLink: /ressources/
 features:
 - title: Powerful Geovisualizer
   details: Kano supports advanced visualization capabilities in 2D and 3D thanks to hardware acceleration with WebGL technology

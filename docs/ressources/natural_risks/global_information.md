@@ -1,8 +1,7 @@
-# Natural risks
+# Introduction and general information
 
 ## France
-[GeoRisques flood perimeter (FR, France)](https://www.georisques.gouv.fr/risques/inondations)
-General information about [natural risks prevention], in France(https://www.ecologie.gouv.fr/prevention-des-risques-naturels)
+General information about [natural risks prevention](https://www.gouvernement.fr/risques/risques-naturels), in France
 
 Details of the **GeoRisques WMS** (french public data) :
 
