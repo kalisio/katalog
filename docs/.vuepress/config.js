@@ -1,14 +1,14 @@
 module.exports = {
-  base: '/kano/',
-  port: 8888,
-  title: 'Kano',
-  description: 'The Kalisio geospatial application',
+  base: '/katalog/',
+  title: 'Katalog',
+  description: 'The Kalisio geospatial catalog',
   head: [
     ['link', { rel: 'icon', href: `https://s3.eu-central-1.amazonaws.com/kalisioscope/kano/kano-icon-64x64.png` }],
     ['link', { rel: 'manifest', href: '/manifest.json' }]
   ],
   theme: 'kalisio',
   themeConfig: {
+    docsDir: 'docs',
     nav: [
       { text: 'About', link: '/about/' },
       { text: 'Guides', link: '/guides/' },
